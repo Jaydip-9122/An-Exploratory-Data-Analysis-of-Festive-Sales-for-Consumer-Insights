@@ -1,4 +1,4 @@
-# Diwali Sales Data Analysis
+# An Exploratory Data Analysis of Festive Sales for Consumer Insights
 
 ## Project Overview
 
